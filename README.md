@@ -7,24 +7,24 @@ Evaluates corporations' ESG index with Financial Statement based on Machine Lear
 
 ### A.I-ESG-Evaluator
 
-1. Data Preprocessing
+#### 1. Data Preprocessing
 
-> Download Files
+- Download Files
 
-2. Split the Data for train, test
+#### 2. Split the Data for train, test
 
-> Dataset for classification
+- Dataset for classification
 
-> Dataset for regression
+- Dataset for regression
 
-3. Train with only ESG Features
+#### 3. Train with only ESG Features
 
-> Classficiation with Classsfier
+- Classficiation with Classsfier
 
-> Classification using Regression
+- Classification using Regression
 
-4. Train with financial features
+#### 4. Train with financial features
 
-> Classification using Classifier
+- Classification using Classifier
 
-> Classification using Regression
+- Classification using Regression
